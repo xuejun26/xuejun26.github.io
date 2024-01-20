@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>devops</title>
+  
+  <subtitle>一个IT民工的随记</subtitle>
+  <link href="https://gx.gongxi.co/atom.xml" rel="self"/>
+  
+  <link href="https://gx.gongxi.co/"/>
+  <updated>2024-01-19T08:57:35.739Z</updated>
+  <id>https://gx.gongxi.co/</id>
+  
+  <author>
+    <name>宫玺</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://gx.gongxi.co/2024/01/19/hello-world/"/>
+    <id>https://gx.gongxi.co/2024/01/19/hello-world/</id>
+    <published>2024-01-19T08:57:35.738Z</published>
+    <updated>2024-01-19T08:57:35.739Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
